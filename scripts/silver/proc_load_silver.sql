@@ -55,7 +55,7 @@ BEGIN
         ELSE 'n/a'
     END cst_gndr,
     CASE WHEN UPPER(TRIM(cst_marital_status)) = 'S' THEN 'Single' 
-        WHEN UPPER(TRIM(cst_gndr)) = 'M' THEN 'Married'
+        WHEN UPPER(TRIM(cst_marital_status)) = 'M' THEN 'Married'
         ELSE 'n/a'
     END  cst_marital_status,
     cst_create_date
