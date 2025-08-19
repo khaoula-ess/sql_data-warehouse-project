@@ -45,7 +45,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm **Khaoula Essalhi**, a Master's student in Data and Discourse Studies. I’m exploring data analysis through projects and tutorials to improve my SQL and analytics skills.
+Hi! I'm **Khaoula Essalhi**, a Master's student in Data and Discourse Studies. I'm learning data analysis through hands-on projects and tutorials, improving my SQL and analytics skills along the way.
 
 
 
