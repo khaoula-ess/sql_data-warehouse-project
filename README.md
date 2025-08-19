@@ -9,7 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 This project covers two main areas:
 
-### 1. Building the Data Warehouse (Data Engineering) 🏗️
+### 1. Building the Data Warehouse  🏗️
 
 **Objective:**  
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and decision-making.
@@ -21,7 +21,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope:** Focus on the latest dataset only; historization of data is not included.  
 - **Documentation:** Provide clear documentation of the data model for business and analytics stakeholders.
 
-### 2. Analytics & Reporting (Data Analytics) 📈
+### 2. Analytics & Reporting  📈
 
 **Objective:**  
 Generate SQL-based analytics to provide actionable insights on:
@@ -45,4 +45,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm **Khaoula Ess**, a Master's student in Data and Discourse Studies. I am passionate about learning data analysis and building real-world data solutions. This project is part of my learning journey — I followed a tutorial to guide me and applied the concepts to practice SQL, data warehousing, and analytics.
+Hi there! I'm **Khaoula Essalhi**, a Master's student in Data and Discourse Studies. I’m exploring data analysis through projects and tutorials to improve my SQL and analytics skills.
+
+
+
